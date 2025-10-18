@@ -2,7 +2,7 @@
 
 # 🚀 Hi there, I'm **Siva Surya S K** 👋
 
-### 💡 Data Science & Machine Learning Graduate | 🎓 BSc Information Technology
+### 💡 Data Science & Machine Learning | 🎓 BSc Information Technology Graduate 
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Transforming+Data+into+Actionable+Insights;Machine+Learning+%26+AI+Enthusiast;Fresher+Ready+to+Make+Impact;Building+the+Future+with+Data" alt="Typing SVG" />
 
